@@ -23,4 +23,4 @@ The table shows that the winner of the election based on popular votes was Diana
 
 ## Conclusion
 
-Although Python is great, it has its limitations and by runing it, in combination with Visual Studio Code, it greatly improveas on not only the amount of time it takes to analyse but also gives you more options to change and work the code to improve on your results.
+Although Python is great, it has its limitations and by runing it, in combination with Visual Studio Code, it greatly improveas on not only the amount of time it takes to analyse,  but also gives you more options to change and work the code to improve on your results.
