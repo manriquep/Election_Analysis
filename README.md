@@ -42,7 +42,7 @@ Diana DeGette was the winner of the election based on popular votes with a winni
 
 ## Election-Audit Summary
 
-The Python script created for this election audit can be used for any election if the data is available. The script contains blank lists and dictionaries as well as statements allowing of other elections to be analyzed. The script can also be modified to audit votes and percentages for Goverment elections, law inforcement and even presidential elections.
+The Python script created for this election audit can be used for any election if the data is available. The script contains blank lists and dictionaries as well as statements allowing of other elections to be analyzed. The script can also be modified to audit votes and percentages for Goverment elections, law inforcement elections and even presidential elections.
 
 
 
